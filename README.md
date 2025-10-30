@@ -53,13 +53,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akash172002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akash172002&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash172002&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash172002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
