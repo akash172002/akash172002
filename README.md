@@ -6,7 +6,7 @@
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CCA&center=true&vCenter=true&width=480&lines=MCA+in+Artificial+Intelligence;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+AI+and+SaaS+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CCA&center=true&vCenter=true&width=480&lines=MCA+in+Artificial+Intelligence;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+AI+and+SaaS+Projects" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🌱 Currently exploring **Advanced AI, System Design & Data Structures**
 - 💬 Ask me about **React, JavaScript, or Full Stack Development**
 - 📫 Reach me at:  
-  [![Gmail Badge](https://img.shields.io/badge/-akash17verma2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akash17verma2003@gmail.com)
+  📧 **akash17verma2003@gmail.com**
 
 ---
 
@@ -35,25 +35,28 @@
 
 ## 🚀 Featured Projects
 
-### 🧩 [Cloudify.AI](https://cloudify-ai-sigma.vercel.app/)
-> A full-stack **SaaS platform** built with **PERN Stack** (PostgreSQL, Express.js, React, Node.js).  
-> Includes authentication, subscription management, and scalable architecture.
+### 🧩 Cloudify.AI
+🔗 https://cloudify-ai-sigma.vercel.app/  
+> SaaS platform built with **PERN Stack**
 
-### 🏍 [Bike Rental Web App](https://bike-rental-rust.vercel.app/)
-> A **MERN Stack** bike rental platform featuring booking, authentication, and cloud storage (Multer + ImageKit).
+### 🏍 Bike Rental Web App
+🔗 https://bike-rental-rust.vercel.app/  
+> MERN Stack rental platform
 
-### 🏨 [The Grand Palace](https://grand-hotel-place.netlify.app/login)
-> A hotel management system built with **React + Supabase + Node.js**, with admin and user dashboards.
+### 🏨 The Grand Palace
+🔗 https://grand-hotel-place.netlify.app/login  
+> Hotel management system
 
-### 🛒 [Velocity Mart](https://github.com/akash172002/VelocityMart-front)
-> E-commerce app built using **React, Redux, Node.js, MongoDB**, including full CRUD and admin panel.
+### 🛒 Velocity Mart
+🔗 https://github.com/akash172002/VelocityMart-front  
+> E-commerce platform
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akash172002&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akash172002&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash172002&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -61,13 +64,20 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash172002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
 ## 🏆 Achievements & Badges
 
+<!-- Main Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akash172002&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akash172002&theme=algolia&no-frame=true&no-bg=true&column=7" />
+</p>
+
+<!-- Fallback Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/akash172002?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/akash172002?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/akash172002/VelocityMart-front?style=for-the-badge" />
 </p>
 
 ---
@@ -75,21 +85,31 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-chandra-sarraf/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/akash172002"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:akash17verma2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://portfolio-main-qi0gwefrv-akash-sarrafs-projects.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://www.linkedin.com/in/akash-chandra-sarraf/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/akash172002">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:akash17verma2003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://portfolio-main-qi0gwefrv-akash-sarrafs-projects.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </p>
 
 ---
 
 ## 💬 Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
 </p>
