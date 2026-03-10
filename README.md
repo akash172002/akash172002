@@ -177,19 +177,28 @@ contact     : akash17verma2003@gmail.com
 
 ---
 
-## 🏆 Trophies & Achievements
+## 🏆 Achievements & Stats
 
+<!-- GitHub Stats Badges — 100% reliable via shields.io pulling live GitHub API data -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=akash172002&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8"
-    alt="Trophies"
-  />
+  <img src="https://img.shields.io/github/followers/akash172002?label=GitHub%20Followers&style=for-the-badge&logo=github&color=7C3AED&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/github/stars/akash172002?label=Total%20Stars%20Earned&style=for-the-badge&logo=github&color=F59E0B&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=akash172002&label=Profile+Views&color=0e75b6&style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
+<!-- Static achievement cards — always visible, no external service dependency -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/akash172002?label=Followers&style=for-the-badge&logo=github&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/akash172002?label=Stars&style=for-the-badge&logo=github&color=F59E0B" />
-  <img src="https://komarev.com/ghpvc/?username=akash172002&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+| 🏅 Achievement | 📌 Details |
+|---|---|
+| 🎓 Academic Excellence | MCA (AI) — CGPA **8.58** · BCA — CGPA **8.87** |
+| 🚀 SaaS Builder | Built & deployed **Cloudify.AI** on PERN Stack |
+| 💻 Full Stack Projects | **4+** live production apps across MERN & PERN |
+| 🧠 AI Specialization | Pursuing advanced AI at **Parul University** |
+| 🛠️ Tech Versatility | Proficient in **10+ frameworks & tools** |
+| 🌐 Open Source | Active contributor on **GitHub** since 2020 |
+| ⚡ Multi-domain | Frontend · Backend · Database · DevOps · UI/UX |
+
 </p>
 
 ---
